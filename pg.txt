@@ -1,0 +1,23 @@
+- Run Code:
+
+--> conda create -n kodland_project python=3.10.14
+
+--> conda activate kodland_project
+
+--> pip install --upgrade pip
+
+--> python -m pip install discord.py
+
+--> conda install numpy
+
+--> pip install --upgrade keras
+
+--> pip install tensorflow
+
+--> python -m pip install --upgrade Pillow
+
+--> python -m pip install requests
+
+--> python -m pip install Flask
+
+--> python -m pip install -U Flask-SQLAlchemy
